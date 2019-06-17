@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ssmdubbo-web/portal/portal.iml" filepath="$PROJECT_DIR$/ssmdubbo-web/portal/portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmdubbo.iml" filepath="$PROJECT_DIR$/ssmdubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmdubbo-common/ssmdubbo-common.iml" filepath="$PROJECT_DIR$/ssmdubbo-common/ssmdubbo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmdubbo-dao/ssmdubbo-dao.iml" filepath="$PROJECT_DIR$/ssmdubbo-dao/ssmdubbo-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmdubbo-entity/ssmdubbo-entity.iml" filepath="$PROJECT_DIR$/ssmdubbo-entity/ssmdubbo-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmdubbo-interface/ssmdubbo-interface.iml" filepath="$PROJECT_DIR$/ssmdubbo-interface/ssmdubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmdubbo-service/ssmdubbo-service.iml" filepath="$PROJECT_DIR$/ssmdubbo-service/ssmdubbo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmdubbo-web/ssmdubbo-web.iml" filepath="$PROJECT_DIR$/ssmdubbo-web/ssmdubbo-web.iml" />
+    </modules>
+  </component>
+</project>

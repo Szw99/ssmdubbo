@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="portal" />
+        <module name="ssmdubbo-common" />
+        <module name="ssmdubbo-dao" />
+        <module name="ssmdubbo-entity" />
+        <module name="ssmdubbo-interface" />
+        <module name="ssmdubbo-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="portal" target="1.5" />
+      <module name="ssmdubbo" target="1.5" />
+      <module name="ssmdubbo-common" target="1.5" />
+      <module name="ssmdubbo-dao" target="1.5" />
+      <module name="ssmdubbo-entity" target="1.5" />
+      <module name="ssmdubbo-interface" target="1.5" />
+      <module name="ssmdubbo-service" target="1.8" />
+      <module name="ssmdubbo-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
